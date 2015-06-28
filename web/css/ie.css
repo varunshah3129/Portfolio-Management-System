@@ -1,0 +1,11 @@
+/*
+HTML 5 Template Name: Workit
+File: IE CSS
+Author: OS Templates
+Author URI: http://www.os-templates.com/
+Licence: <a href="http://www.os-templates.com/template-terms">Website Template Licence</a>
+*/
+
+.clear{zoom:1;}
+
+#header hgroup h2, #topnav ul li{*display:inline; /* IE7 Specific*/}
